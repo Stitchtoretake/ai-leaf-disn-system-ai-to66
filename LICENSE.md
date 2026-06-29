@@ -1,4 +1,4 @@
-# 
+# Best AI leaf disease detection system extensions. Featuring model-optimization and chatbot-integration — optimized for maximum performance.
 
 
 
